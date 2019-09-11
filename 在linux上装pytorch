@@ -1,0 +1,7 @@
+装的时候一直报错' command 'pip' not found '。解决方法：
+sudo apt-get update
+sudo apt-get upgrade
+一定要确保提前装好了pip：sudo apt-get install python3-pip
+然后去pytorch官网：https://pytorch.org/
+如果报错说超时则借助清华源：https://mirror.tuna.tsinghua.edu.cn/help/pypi/
+pip3 install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html -i https://pypi.tuna.tsinghua.edu.cn/simple
