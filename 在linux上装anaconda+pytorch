@@ -1,2 +1,2 @@
-本来想只装pytorch,结果大多数教程都必须先装anaconda,那就装吧
+本来想只装pytorch,结果大多数教程都必须先装anaconda,那就装吧，参考教程https://blog.csdn.net/hktxt/article/details/82111203
 在清华源上https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/下载，不知道为啥别人告诉我清华源超快的到我这还是和官网上下速度一样慢，wsl
