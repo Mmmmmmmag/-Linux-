@@ -1,0 +1,4 @@
+跟着http://blog.csdn.net/fesdgasdgasdg/article/details/54183577博主的教程一步一步装的，最后一步“添加Ubuntu到Windows的MBR引导程序中”出了一点小问题：
+打开EasyBCD之后，添加新条目时显示在EFI模式下有些功能无法使用，Linux那一栏按钮不可用。
+查了之后发现是分区时出现了问题，但我也不知道怎么解决，也不知道EasyBCD作用到底是啥，心想大不了就是开机时候麻烦一点。
+重启发现竟然win和ubuntu都可选，也就是没啥影响？？？还没想明白咋回事
