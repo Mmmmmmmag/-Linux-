@@ -1,0 +1,7 @@
+需要在root用户执行，我遇到的问题：
+linux修改root用户的密码： sudo passwd root
+linux更换为root用户执行：su - root
+
+本来教程https://blog.51cto.com/lee90/1875577里说apt-get install shadowsocks就可以配置客户端
+但我终端里一直显示' command 'pip' not found, but can be install with: apt install python - pip '
+不知道是不是我还没装python的原因，可这不怪我，我从清华源down下来的anaconda5个小时了还没下下来
